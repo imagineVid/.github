@@ -58,24 +58,38 @@
 
 ## From Idea to Publishable Creative
 
-ImagineVid brings multimodel creation into one browser-based workflow. Start with a written idea, an existing image, or reference media; choose the workflow that fits the job; then refine motion, framing, sound, style, and format in one place.
+ImagineVid keeps the creative process connected from the first direction to the final asset.
 
-- **Prompt to video:** Describe the scene, action, camera direction, and sound you want.
-- **Image to video:** Add motion and audio while keeping the source composition recognizable.
-- **Reference-guided creation:** Preserve character, product, or scene identity while exploring new movement.
-- **Image generation and editing:** Build visual assets without leaving the workspace.
-- **Music generation:** Create original tracks that support the tone and pacing of your project.
-
-## Built for Real Creative Work
-
-Create social videos, product visuals, ad concepts, stories, presentations, campaign assets, and creative experiments from the same workspace. ImagineVid is designed for creators who want to move quickly from an idea to something they can publish, present, or develop further.
+<table>
+  <tbody>
+    <tr>
+      <td width="22%"><strong>Start</strong></td>
+      <td>Begin with a written prompt, an existing image, or visual references for a character, product, or scene.</td>
+    </tr>
+    <tr>
+      <td><strong>Create</strong></td>
+      <td>Generate video, images, or music with the workflow and model that fit the job.</td>
+    </tr>
+    <tr>
+      <td><strong>Refine</strong></td>
+      <td>Shape motion, framing, pacing, sound, style, continuity, and format without rebuilding the project elsewhere.</td>
+    </tr>
+    <tr>
+      <td><strong>Publish</strong></td>
+      <td>Develop social videos, product visuals, campaign concepts, stories, presentations, and other production-ready creative.</td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="center">
+  <strong>Ready to turn an idea into something you can share?</strong><br><br>
   <a href="https://imaginevid.io/"><strong>Start creating with ImagineVid</strong></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://imaginevid.io/pricing">Explore plans</a>
 </p>
 
 ---
 
 ### Open Resources
 
-The ImagineVid team also maintains source-backed prompt research and production guides for emerging AI media workflows. Browse the public repositories below when you need reusable prompt structures, examples, and model-specific techniques.
+Looking for reusable prompt structures and model-specific production techniques? Explore the source-backed research and public guides maintained by the ImagineVid team in this organization.
