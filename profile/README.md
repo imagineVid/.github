@@ -24,10 +24,23 @@
 
 ## Create With ImagineVid
 
-| AI Video | AI Image | AI Music |
-| --- | --- | --- |
-| Generate clips from text, animate still images, or direct motion with visual references. | Create and transform images for concepts, campaigns, stories, and production assets. | Generate original music for videos, social content, and creative projects. |
-| [Text to video](https://imaginevid.io/text-to-video) · [Image to video](https://imaginevid.io/image-to-video) · [Reference to video](https://imaginevid.io/reference-video) | [Create AI images](https://imaginevid.io/ai-image-generator) | [Create AI music](https://imaginevid.io/ai-music-generator) |
+### AI Video
+
+Generate clips from text, animate still images, or direct motion with visual references. Move from a written scene or approved visual to a finished clip with control over framing, action, pacing, and sound.
+
+**Explore:** [Text to video](https://imaginevid.io/text-to-video) · [Image to video](https://imaginevid.io/image-to-video) · [Reference to video](https://imaginevid.io/reference-video)
+
+### AI Image
+
+Create and transform images for concepts, campaigns, stories, and production assets. Develop new visuals from a prompt or refine existing media inside the same creative workspace.
+
+**Explore:** [Create AI images](https://imaginevid.io/ai-image-generator)
+
+### AI Music
+
+Generate original music for videos, social content, and creative projects. Build a soundtrack around the mood, energy, and intended use of your work without leaving ImagineVid.
+
+**Explore:** [Create AI music](https://imaginevid.io/ai-music-generator)
 
 ## From Idea to Publishable Creative
 
